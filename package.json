@@ -1,0 +1,25 @@
+{
+  "name": "sau-server",
+  "version": "1.0.0",
+  "description": "Server side of sheep tracking application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvgb/sau-server.git"
+  },
+  "keywords": [
+    "sau",
+    "sheep",
+    "tracking",
+    "gps"
+  ],
+  "author": "Trym Vegard Gjelseth-Borgen & Kimia Abtahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvgb/sau-server/issues"
+  },
+  "homepage": "https://github.com/tvgb/sau-server#readme"
+}
