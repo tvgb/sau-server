@@ -24,7 +24,7 @@ if (process.env.MODE === 'production') {
 	// 	console.log('HTTPS Server running on port', port);
 	// });
 } else {
-	const port = 3005;
+	const port = process.env.PORT;
 
 	const httpServer = http.createServer(app);
 
